@@ -10,7 +10,7 @@ ORG_NAME="Cryptocurrency"
 ORG_URL="https://www.gemsociety.org"
 ORG_DESCRIPTION="Coin is dedicate to NETFLIX series 'Elite' and all it's lovers"
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/LgFDdW6/elite.jpg"
+ORG_LOGO="https://i.ibb.co/GWcQ4bq/elite.jpg"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
@@ -20,7 +20,7 @@ issuer="GAMX2OO4PZOYWVTC5T5CUZIVOIT7NNC4TA5DLQWCBA4LH5UGQAT6CMW6"
 anchor_asset="false"
 name="Elite Coin"
 desc="Coin is dedicate to NETFLIX series 'Elite' and all it's lovers"
-image="https://i.ibb.co/LgFDdW6/elite.jpg"
+image="https://i.ibb.co/GWcQ4bq/elite.jpg"
 fixed_number=1000000
 max_number=1000000
 is_unlimited=false
